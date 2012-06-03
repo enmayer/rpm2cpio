@@ -1,0 +1,4 @@
+rpm2cpio - RPM to CPIO written in Python.
+
+For information about rpm2cpio see:
+http://www.rpm.org/max-rpm/s1-rpm-miscellania-rpm2cpio.html
